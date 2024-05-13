@@ -1,9 +1,13 @@
 #include <iostream>
 
-int maim()
+int main()
 {
-	int Money_1, Money_2
-	
+	int Gold = 10;
+	int Silver = 10;
+	std::cin >> Gold;
+	std::cin >> Silver;
+	std::cout << Gold + Silver;
+
 
 
 	return 0;
