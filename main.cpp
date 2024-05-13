@@ -2,8 +2,8 @@
 
 int main()
 {
-	int Gold = 10;
-	int Silver = 10;
+	int Gold;
+	int Silver;
 	std::cin >> Gold;
 	std::cin >> Silver;
 	std::cout << Gold + Silver;
